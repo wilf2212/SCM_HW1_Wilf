@@ -1,0 +1,1 @@
+Software Configuration Management (SCM) is essential because it helps track and control changes in the software. It ensures that the team is working on the correct version of the code and prevents conflicts between developers.
